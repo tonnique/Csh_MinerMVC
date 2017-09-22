@@ -1,0 +1,10 @@
+D:\MyProgs\C_sharp\Miner_MVC\Miner_MVC\bin\Debug\Miner_MVC.exe.config
+D:\MyProgs\C_sharp\Miner_MVC\Miner_MVC\bin\Debug\Miner_MVC.exe
+D:\MyProgs\C_sharp\Miner_MVC\Miner_MVC\bin\Debug\Miner_MVC.pdb
+D:\MyProgs\C_sharp\Miner_MVC\Miner_MVC\obj\Debug\Miner_MVC.View.frmMiner.resources
+D:\MyProgs\C_sharp\Miner_MVC\Miner_MVC\obj\Debug\Miner_MVC.Properties.Resources.resources
+D:\MyProgs\C_sharp\Miner_MVC\Miner_MVC\obj\Debug\Miner_MVC.View.frmSettings.resources
+D:\MyProgs\C_sharp\Miner_MVC\Miner_MVC\obj\Debug\Miner_MVC.csproj.GenerateResource.Cache
+D:\MyProgs\C_sharp\Miner_MVC\Miner_MVC\obj\Debug\Miner_MVC.exe
+D:\MyProgs\C_sharp\Miner_MVC\Miner_MVC\obj\Debug\Miner_MVC.pdb
+D:\MyProgs\C_sharp\Miner_MVC\Miner_MVC\obj\Debug\Miner_MVC.csprojResolveAssemblyReference.cache
