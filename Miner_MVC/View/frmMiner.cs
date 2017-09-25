@@ -73,8 +73,6 @@ namespace Miner_MVC.View
 
         public void updateMineField()
         {
-            g = mineField.CreateGraphics();
-
             lblStatus.Text = model.getBombsNumber() + " Mines";
             int height = model.getHeight();
             int width = model.getWidth();
@@ -82,13 +80,12 @@ namespace Miner_MVC.View
             for (int row = 0; row < height; row++)
             {
                 for (int col = 0; col < width; col++)
-                {
-                    if (width == 30) {
-                        ;
+                {   
+                    using (g = mineField.CreateGraphics()) {
+
+                        CellView tmpCell = new CellView(model.getCell(row, col));                   
+                        tmpCell.drawCell(g, row, col, model.isGameOver());
                     }
-                    CellView tmpCell = new CellView(model.getCell(row, col));
-                    //CellView tmpCell = new CellView(col, row);
-                    tmpCell.drawCell(g, row, col, model.isGameOver());
                 }
             }
         }        
